@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/742
     wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39215#The-New-Rector
 gutenberg_issued: '2012-03-20'
 gutenberg_type: Text
 identifiers:
